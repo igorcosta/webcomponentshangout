@@ -1,0 +1,25 @@
+{
+  "name": "Web Components com Polymer",
+  "version": "1.0.0",
+  "authors": [
+    "igorcosta <igorcosta@riacycle.com>"
+  ],
+  "description": "Exemplos de componentes web com Polymer durante o Hangout",
+  "keywords": [
+    "Polymer"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "www.igorcosta.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.4.2",
+    "google-map": "GoogleWebComponents/google-map#~0.3.2",
+    "paper-elements": "polymer/paper-elements#~0.4.2"
+  }
+}
